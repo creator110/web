@@ -1,0 +1,50 @@
+body {
+  font: 100.01% Verdana, Arial, Helvetica, sans-serif;
+  background-color: #8E0000;
+}
+
+* {
+  margin:0;
+  padding:0;
+}
+
+#seite {
+  width:100%;
+  margin: 0 auto;
+}
+
+#kopfbereich {
+  background-color: #8E0000;
+  font-size:28pt;
+  text-align: center;
+}
+
+#inhalt {
+  background-color: #AB0000;
+}
+
+#steuerung {
+  text-align: center;
+  background-color: #000000;
+  color: #B3B3B3;
+}
+
+#fussbereich {
+  clear: both;
+  background-color:#8E0000;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+
+a:visited,
+a:link {
+  color: #B3B3B3
+}
+
+a:hover,
+a:focus {
+  color: #FFFFFF
+}
